@@ -1,5 +1,15 @@
 # :wave: The Basics of GitHub 
 
+## Important!: Test Assignment
+
+add a new file `summary.md` at the root directory, and put the following content into the file:
+
+```
+This is my content!
+```
+
+Then commit the change directly to the main branch.
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
